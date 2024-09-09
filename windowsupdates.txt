@@ -4,6 +4,16 @@ dl.delivery.mp.microsoft.com
 *.update.microsoft.com
 *.do.dsp.mp.microsoft.com
 *.microsoft.com.edgesuite.net
+*.update.microsoft.com
+*.download.windowsupdate.com
+*.windowsupdate.microsoft.com
+*.ntservicepack.microsoft.com
+*.wustat.windows.com
+*.ws.microsoft.com
+*.au.windowsupdate.com
+*.dl.delivery.mp.microsoft.com
+*.delivery.mp.microsoft.com
+*.windowsupdate.microsoft.com.edgesuite.net
 amupdatedl.microsoft.com
 amupdatedl2.microsoft.com
 amupdatedl3.microsoft.com
